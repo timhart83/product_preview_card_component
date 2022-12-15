@@ -98,11 +98,6 @@ body {
 	border-radius: 5px;
 }
 
-.btn-primary:hover {
-	cursor: pointer;
-	background-color: hsl(212, 21%, 14%);
-}
-
 .icon {
 	width: 0.9rem;
 	height: 0.9rem;
